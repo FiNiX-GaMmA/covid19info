@@ -22,7 +22,7 @@ To deploy this project
 ## Acknowledgements
 ### List of links State-wise.
 
- - [Andhra Pradesh](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Andhra Pradesh](https://github.com/FiNiX-GaMmA/covid19info/tree/main/COVID%20INFO/Andhra%20Pradesh)
  - [Arunachal Pradesh](https://github.com/matiassingers/awesome-readme)
  - [Assam](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 - [Bihar](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
